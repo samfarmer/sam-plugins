@@ -5,7 +5,7 @@ This document shows how the weekly news research methodology applies specificall
 ## Scope Definition
 
 **Focus**: U.S. insurance industry developments
-**Lines of business**: Property & Casualty, Life & Health, Reinsurance
+**Lines of business**: Property & Casualty, Life & Health, Reinsurance, Personal Lines, Workers Compensation
 **Topics**: AI/technology, regulation, M&A, market trends, catastrophes, legal/compliance, product launches, personnel
 
 ## Impact Scoring Framework for Insurance
