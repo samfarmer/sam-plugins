@@ -1,0 +1,10 @@
+{
+  "name": "weekly-news",
+  "version": "0.1.0",
+  "description": "Impact-scored weekly news research and reporting for any industry or topic",
+  "author": {
+    "name": "Sam Farmer",
+    "email": "farmer.sam@icloud.com"
+  },
+  "keywords": ["news", "research", "reporting", "analysis", "impact-scoring"]
+}
