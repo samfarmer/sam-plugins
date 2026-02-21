@@ -1,0 +1,13 @@
+{
+  "name": "sam-plugins",
+  "owner": {
+    "name": "Sam Farmer"
+  },
+  "plugins": [
+    {
+      "name": "weekly-news",
+      "source": "./weekly-news",
+      "description": "Impact-scored weekly news research and reporting for any industry or topic"
+    }
+  ]
+}
